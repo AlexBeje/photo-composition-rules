@@ -8,9 +8,9 @@ import data from './data/compositionTechniques.json';
     <h1>Composition Rules</h1>
     <div class="composition-rules">
       <CompositionRule
-        v-for="{ id, title, src, description } in data"
+        v-for="{ id, title, description } in data"
+        :id="id"
         :title="title"
-        :src="src"
         :description="description"
         :key="id"
       />

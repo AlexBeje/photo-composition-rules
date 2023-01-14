@@ -3,8 +3,8 @@ import { ref } from 'vue';
 import IconForward from '~icons/material-symbols/arrow-forward-ios-rounded';
 
 defineProps({
+  id: Number,
   title: String,
-  src: String,
   description: String,
 });
 
@@ -18,7 +18,7 @@ function toggleItem() {
 <template>
   <div class="container">
     <div class="top-section" @click="toggleItem">
-      <img class="small-image" :src="src" />
+      <img class="small-image" :src="'/images/' + id + '.jpeg'" />
       <h4 class="title">{{ title }}</h4>
       <div class="icon">
         <IconForward v-if="itemOpened" class="arrow-rotated" />
@@ -26,7 +26,7 @@ function toggleItem() {
       </div>
     </div>
     <div class="bottom-section" v-if="itemOpened">
-      <img class="large-image" :src="src" />
+      <img class="large-image" :src="'/images/' + id + '.jpeg'" />
       <span v-html="description" />
     </div>
   </div>
