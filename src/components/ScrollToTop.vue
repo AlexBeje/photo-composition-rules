@@ -36,7 +36,7 @@ function scrollToTop() {
   .arrow-rotated {
     transform: rotate(-90deg);
     color: black;
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 }
 </style>
