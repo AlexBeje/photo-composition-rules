@@ -1,8 +1,62 @@
 [
   {
     "id": 1,
-    "title": "Rule of Thirds",
+    "title": "1. Rule of Thirds",
     "src": "https://www.photographyaxis.com/wp-content/uploads/Rule-of-Thirds.jpg",
     "description": "The first rule to learn as a beginner is the rule of thirds in photography. I would like to say that this rule emphasizes more on the position of the subjects in the frame. <br><br> According to this rule, you can position your subjects in any of the four intersecting points of the grid formed by two vertical and horizontal lines. <br><br> You can also align your subjects along any of these four lines. If you have a horizon level in the image, which is quite common in landscape images, you can place the horizon on any of these lines to draw the viewer’s attention. <br><br> This rule is of the popular types of composition in photography. <br><br> The bird (Snow Partridge) is framed using the rule of thirds. The two points of intersection of the grid lines, along with one vertical line fall on the bird’s body. The bird’s eye also lies on the top horizontal grid line."
+  },
+  {
+    "id": 2,
+    "title": "2. Leading Lines",
+    "src": "https://www.photographyaxis.com/wp-content/uploads/Composing-with-Leading-Lines.jpg",
+    "description": "Another useful technique to learn is leading lines photography. It is also easy-to-use rule.<br><br>You can make use of the different lines in the scene to lead toward your subject. Thus, the viewer’s attention can be easily drawn to the subject of interest.<br><br>These lines will be in different forms. It can be a road, rail, series of lampposts, a series of patterns, etc.<br><br>Here, the Photographer uses leading lines photography composition to do lens ball photography. The blurred tube lights along with the yellow marking line on the road and the series of pillars on either side act as the leading lines pointing toward the lens ball in hand."
+  },
+  {
+    "id": 3,
+    "title": "3. Use of Negative Space",
+    "src": "https://www.photographyaxis.com/wp-content/uploads/Use-of-Negative-Space-in-Photo-Composition.jpg",
+    "description": "You can also use the negative space technique. Here, the subjects will occupy less area of the frame. There will be more blank space which can be anywhere in the frame.<br><br>This rule is mainly used to create minimalist photographs. People who are looking to capture pictures for banner and poster designs also use this technique.<br><br>Here, the image of the bird, Chestnut-bellied Nuthatch is framed in such a way that there is a lot of negative space on the right-hand side.<br><br>"
+  },
+  {
+    "id": 4,
+    "title": "4. Fill the Frame",
+    "src": "https://www.photographyaxis.com/wp-content/uploads/Fill-the-Frame-Photography-Composition.jpg",
+    "description": "Fill the frame composing technique is another popular photo technique. You can use it for portraits, wildlife, birds, etc. Here, the subject occupies most of the frame.<br><br>In the case of portraits, it will be a tight portrait, without leaving much breathing space on the sides. This rule may not work for all types of scenes and situations.<br><br>Fill the frame type of composition in photography helps to capture and show more details of the subject.<br><br>The tight headshot image of this bird is a good example of the fill the frame technique."
+  },
+  {
+    "id": 5,
+    "title": "5. Keep It Simple",
+    "src": "https://www.photographyaxis.com/wp-content/uploads/Keep-it-simple-photography-technique.jpg",
+    "description": "The common photography mistakes made by most amateurs are trying to put more elements and their details in the frame. It often leads to lousy composition as it may distract the viewers’ attention to a different element in the scene.<br><br>So, try to use the, Keep it simple technique. It will make life easy for you.<br><br>The image of the ship in water is a good example. Here, the photographer uses the long exposure photography technique to make the sea calm that makes it look like a simple image of a ship without any distractions."
+  },
+  {
+    "id": 6,
+    "title": "6. Golden Ratio",
+    "src": "https://www.photographyaxis.com/wp-content/uploads/Golden-Ratio-Photography-Composition.jpg",
+    "description": "Golden ratio rule is also known by other names like Phi grids, Golden spiral, Fibonacci spiral, etc. It uses the Phi Grids or the Golden spiral to position the different elements in the scene. This grid may not be available in all cameras.<br><br>You can apply this rule either in the field or during photo editing. If you want to use it on the field and your camera doesn’t support it, still there is one way.<br><br>You can take a print out of the grid/spiral on a transparent plastic sheet. The size of the grid must match with the live view screen in your camera. Take a cut out of print and place it on top of the live view screen to use the rule.<br><br>In the above picture, the photographer has placed the house (the subject of interest) at the spiral end to follow this rule."
+  },
+  {
+    "id": 7,
+    "title": "7. Frame Within a Frame",
+    "src": "https://www.photographyaxis.com/wp-content/uploads/Frame-within-a-Frame.jpg",
+    "description": "The frame within a frame photo composition technique works best when the foreground border and the subject are in focus.<br><br>You can either expose both the foreground and the subject or the subject alone. It depends on you and also on the scene.<br><br>You can use the windows, doorways, aeroplane windows, etc., to try this technique. You can use it for portraits, landscape, architecture, and street photos.<br><br>Here, the photographer uses the window of his building to capture the city scene lying below, which is a good example of the frame within a frame technique."
+  },
+  {
+    "id": 8,
+    "title": "8. Composing with Lines: Horizontal",
+    "src": "https://www.photographyaxis.com/wp-content/uploads/Composing-with-Horizontal-Lines.jpg",
+    "description": "Horizontal lines in the frame can be used for composition. These lines will make the viewer’s eye move from left to right of the frame. The frame will look more attractive if you can include your subject in this type of line in your photography composition.<br><br>Here, the yellow building sections act as the horizontal lines that aid in the photo composition. The windows along with the air conditioner are the different elements in the scene."
+  },
+  {
+    "id": 9,
+    "title": "9. Composing with Lines: Vertical",
+    "src": "https://www.photographyaxis.com/wp-content/uploads/Composing-with-Verticla-Lines.jpg",
+    "description": "If you are doing forest photography or architecture photography, you can use vertical lines in the composition scene. In the case of the forest, you will have vertical lines in the form of trees.<br><br>You can use buildings and tall skyscrapers as vertical lines for architectural images. The vertical elements can be anything else also.<br><br>Photographer, Niilo Isotalo, uses the vertical lines composing technique with the help of the tall trees inside the forest."
+  },
+  {
+    "id": 10,
+    "title": "10. Rule of Diagonals",
+    "src": "https://www.photographyaxis.com/wp-content/uploads/Composing-with-Diagonals.jpg",
+    "description": "You can use the diagonal lines in the scene to compose frames. The diagonal lines tend to produce strong images than the horizontal and vertical lines.<br><br>The diagonal which connects the opposite corners of the frame must not be used. It will not help to create beautiful images.<br><br>Too many diagonals in the frame can create tension. So, try to avoid that too."
   }
 ]

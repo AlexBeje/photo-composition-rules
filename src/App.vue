@@ -6,12 +6,15 @@ import data from './data/compositionTechniques.json';
 <template>
   <div class="app-container">
     <h1>Composition Rules</h1>
-    <CompositionRule
-      v-for="{ title, src, description } in data"
-      :title="title"
-      :src="src"
-      :description="description"
-    />
+    <div class="composition-rules">
+      <CompositionRule
+        v-for="{ id, title, src, description } in data"
+        :title="title"
+        :src="src"
+        :description="description"
+        :key="id"
+      />
+    </div>
   </div>
 </template>
 
@@ -22,5 +25,10 @@ h1 {
 }
 .app-container {
   margin: 1rem;
+}
+.composition-rules {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
 }
 </style>
