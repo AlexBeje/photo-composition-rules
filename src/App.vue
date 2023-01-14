@@ -1,12 +1,17 @@
 <script setup>
 import CompositionRule from './components/CompositionRule.vue';
+import data from './data/compositionTechniques.json';
 </script>
 
 <template>
   <div class="app-container">
-    <!-- <HelloWorld msg="Vite + Vue" /> -->
     <h1>Composition Rules</h1>
-    <CompositionRule msg="Vite + Vue" />
+    <CompositionRule
+      v-for="{ title, src, description } in data"
+      :title="title"
+      :src="src"
+      :description="description"
+    />
   </div>
 </template>
 
