@@ -26,16 +26,17 @@ function scrollToTop() {
 .scroll-to-top {
   cursor: pointer;
   position: fixed;
-  bottom: 1rem;
-  right: 2rem;
-  width: 40px;
-  height: 40px;
+  bottom: 4rem;
+  right: 4rem;
+  width: 5rem;
+  height: 5rem;
   background: white;
   border: none;
   border-radius: 4px;
   .arrow-rotated {
     transform: rotate(-90deg);
     color: black;
+    font-size: 2rem;
   }
 }
 </style>

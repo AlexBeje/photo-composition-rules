@@ -54,7 +54,7 @@ function toggleItem() {
     .title {
       flex: 1;
       margin: 0 1rem;
-      font-weight: 700;
+      font-weight: 500;
     }
     .icon {
       width: 48px;
