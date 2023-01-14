@@ -1,5 +1,6 @@
 <script setup>
 import CompositionRule from './components/CompositionRule.vue';
+import ScrollToTop from './components/ScrollToTop.vue';
 import data from './data/compositionTechniques.json';
 </script>
 
@@ -15,10 +16,11 @@ import data from './data/compositionTechniques.json';
         :key="id"
       />
     </div>
+    <ScrollToTop />
   </div>
 </template>
 
-<style scoped>
+<style scoped lang="scss">
 h1 {
   margin: 2rem 0 1rem 0;
   font-weight: 700;
