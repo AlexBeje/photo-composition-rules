@@ -28,8 +28,8 @@ function scrollToTop() {
   position: fixed;
   bottom: 3rem;
   right: 2rem;
-  width: 5rem;
-  height: 5rem;
+  width: 4rem;
+  height: 4rem;
   background: white;
   border: none;
   border-radius: 4px;
