@@ -19,7 +19,7 @@ function toggleItem() {
   <div class="container">
     <div class="top-section" @click="toggleItem">
       <img class="small-image" :src="src" />
-      <h2 class="title">{{ title }}</h2>
+      <h4 class="title">{{ title }}</h4>
       <div class="icon">
         <IconForward v-if="itemOpened" class="arrow-rotated" />
         <IconForward v-else />
@@ -42,6 +42,7 @@ function toggleItem() {
     justify-content: space-between;
     background: #1c1c1e;
     padding: 0.5rem 1rem;
+    cursor: pointer;
     .small-image {
       width: 48px;
       height: 48px;
@@ -53,7 +54,7 @@ function toggleItem() {
     .title {
       flex: 1;
       margin: 0 1rem;
-      font-weight: 400;
+      font-weight: 700;
     }
     .icon {
       width: 48px;
