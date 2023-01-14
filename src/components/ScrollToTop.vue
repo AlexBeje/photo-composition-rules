@@ -26,8 +26,8 @@ function scrollToTop() {
 .scroll-to-top {
   cursor: pointer;
   position: fixed;
-  bottom: 4rem;
-  right: 4rem;
+  bottom: 3 rem;
+  right: 2rem;
   width: 5rem;
   height: 5rem;
   background: white;
